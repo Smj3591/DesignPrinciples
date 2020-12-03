@@ -1,0 +1,6 @@
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe.config
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.pdb
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.csprojResolveAssemblyReference.cache
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.exe
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.pdb

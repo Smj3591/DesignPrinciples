@@ -124,7 +124,7 @@ namespace SOLIDPrinciple
 
     #endregion
 
-    /*****************************************With DIP* ITERRATION 3*******************************************************************************************/
+    /*****************************************With DIP* ITERRATION 3**********************************************************************************************/
     //Looks fine for now.But whenever the client wants to introduce a new logger, 
     //we need to alter ExceptionLogger by adding a new method.
     //If we continue doing this after some time then we will see a fat ExceptionLogger class 
