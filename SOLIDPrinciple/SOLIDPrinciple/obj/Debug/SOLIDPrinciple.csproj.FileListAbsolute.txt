@@ -1,0 +1,6 @@
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe.config
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.pdb
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.csprojResolveAssemblyReference.cache
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.exe
+c:\users\sunil\documents\visual studio 2015\Projects\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.pdb
